@@ -1,0 +1,26 @@
+.student-profile {
+    margin: 0 auto;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    background-color: white;
+    max-width: 720px;
+    border-radius: 12px;
+    user-select: none;
+
+    & > input {
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+
+    &-alerts {
+        text-align: center;
+        font-size: 24px;
+        padding: 24px 0;
+    }
+
+    &-list {
+        list-style: none;
+        overflow: scroll;
+        height: calc(100vh - 144px);
+    }
+}
