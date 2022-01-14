@@ -1,23 +1,27 @@
+# Student Profiles
 
-# Submission Detials
+## Description 
+This application uses an API to display data which can then be filtered by student names and each student's information is displayed. A user is able to add or delete tags to any student card. This application was built using React and React Hooks. 
 
-Please read the following details before you click 'Mark as Done' to your submission 
-1. Make sure that all your code is merged to the Main branch
-2. Include all files necessary to run your app, NOT just the source code, except for the **node_modules** folder
-3. Here is an example of how we will test your code 
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-```bash
-git clone https://github.com/<username>/<repo-name>.git
-npm install # or yarn install
-npm start  
-```
+## Installation 
+This application uses node and all dependencies are installed by running `npm install`. To run the server run `npm start` in the terminal. This application runs on localhost:3000. 
 
-Your app should be running on `http://localhost:3000` or whichever PORT number you specify.
+## Usage 
+This application will allow users to view the current song in the playlist and the next songs in the queue. Users will also be able to view top artists and search through artists.<br>
+<img src="public/images/app.png">
 
-If your app had a different instructions to start, then you must edit this README.md file and list out the instructions to successfully run your code.
+## Contributing 
+Contributors should read the installation section. 
 
+## Tests
+No tests are used in this application.
 
-
-
-
-
+## Questions
+If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
