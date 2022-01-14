@@ -1,8 +1,8 @@
 {
-  "name": "nicolewallace-submission",
+  "name": "Meriem BADER-submission",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nicolewallace09.github.io/student-profiles",
+  "homepage": "http://meriembader.github.io/student-profiles",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
