@@ -24,4 +24,4 @@ Contributors should read the installation section.
 No tests are used in this application.
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
+If you have any questions about this projects, please contact me directly at meriem.bader1@esprit.tn. You can view more of my projects at https://github.com/meriembader.
